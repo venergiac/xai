@@ -28,5 +28,7 @@ This category includes all methods that return data points (already existent or 
 
 ![](https://1.bp.blogspot.com/-wUQWieyHmrI/XlV2LciuYUI/AAAAAAAANKI/JPHZr2EzVnAINxRPilqkkLJJBCByIOjoACLcBGAsYHQ/s1600/Screen%2BShot%2B2020-02-25%2Bat%2B20.31.37.png)
 
+![](https://1.bp.blogspot.com/-O8YRaSIgEZA/XlVICiccP5I/AAAAAAAANJw/mCw8MLq9JpcLjbCgrOS9PQcmNjFZdigoACLcBGAsYHQ/s320/feature_permutation.png)
+
 ### Intrinsically interpretable model
 One solution to interpreting black box models is to approximate them (either globally or locally) with an interpretable model. The interpretable model itself is interpreted by looking at internal model parameters or feature summary statistics.
