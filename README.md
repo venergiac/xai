@@ -2,6 +2,7 @@
 
 Simple experiments of XAI = Explainable Artificial Intelligence
 
+![](https://1.bp.blogspot.com/-wJ2iOmJmSXo/XjPsp1AZceI/AAAAAAAAM9E/lb25nmKM3nsuqqInetF6L43CKbVK6PMHACLcBGAsYHQ/s1600/Screen%2BShot%2B2020-01-31%2Bat%2B08.01.23.png)
 
 Sometime we use both terms Artificial Intelligence (AI) and Machine Learning (ML), but we say "AI" and we use Machine Learning, in the same way, we say "Explainable" but we refer to "Interpretable".
 
